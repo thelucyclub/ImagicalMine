@@ -6,6 +6,8 @@ If you're viewing this page and wondering where ImagicalMine is.. It's no longer
 
 *This GitHub organization wasn't stolen it was simply claimed by an admin of the original project.*
 
+I have removed the issue tracker. If you have something to say hit me up on [Twitter](https://twitter.com/DALTONTASTIC).
+
 ![](https://i.imgur.com/XmThBdr.gif)
 
 ## new repo who dis?
