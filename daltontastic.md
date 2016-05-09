@@ -1,1 +1,1 @@
-[@DALTONTASTIC](https://twitter/DALTONTASTIC)
+[@DALTONTASTIC](https://twitter.com/DALTONTASTIC)
