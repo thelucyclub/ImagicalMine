@@ -1,4 +1,6 @@
-# dat boi!!!
+FUCK YOU @DALTONTASTIC!!
+# IMAGICALMINE HAS BEEN MOVED [HERE](github.com/ImagicalCorp/ImagicalMine)
+<!--# dat boi!!!
 
 If you're viewing this page and wondering where ImagicalMine is.. It's no longer being hosted inside of this repository. Download PocketMine-MP by clicking [here](https://github.com/PocketMine/PocketMine-MP).
 
@@ -21,3 +23,4 @@ Multiplayer is being overrun with a multitude of commercial projects, and it's c
 - [x] ImagicalMine doesn't allow PocketMine servers to be listed on their website in an effort to make a blatant barrier.
 - [x] Keith has no coding knowledge whatsoever. He literally just whines to his developers in the issue tracker until somebody finds some Genisys code to copy & paste.
 - [x] ImagicalMine strays so far away from the official branch that compatibility issues happen way too often for comfort. They made a promise to improve upon PocketMine not completely change it.
+-->
